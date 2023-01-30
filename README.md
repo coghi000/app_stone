@@ -54,4 +54,12 @@
  <br>
  <p> 3° Após ele abrir no terminal, adicione no final do link um "/docs" igual o link a seguir "http://127.0.0.1:8000/docs", ele vai abrir um swagger para que você possa interagir com a aplicação.
  <br>
-<p> 4° No Swagger você tem 4 "GETS" para que você possa testar as funcionalidades e ver o retorno que cada uma tras, para que você possa utilizar, você clica no "get" que vocês quer e logo após de aberto, você clica numa botão escrito "Try Out" para que ele te permita adicionar uma saida diferente, após ele permitir, você digita o que é requisitado, como no exemplo da imagem abaixo.
+<p> 4° No Swagger você tem 4 "GETS" para que você possa testar as funcionalidades e ver o retorno que cada uma tras, para que você possa utilizar, você clica no "get" que vocês quer e logo após de aberto, você clica numa botão escrito "Try Out" para que ele te permita adicionar uma saida diferente, após ele permitir, você digita o que é requisitado e clica no botão azul "Execute" e veja a magia acontecer, conforme a imagem abaixo.
+ 
+![Screenshot from 2023-01-30 13-35-33](https://user-images.githubusercontent.com/35513218/215538121-0139dbea-828e-429d-a323-0b9662b2c65c.png)
+
+<p>É só repetir o mesmo processo para as demais funções</p>
+
+
+<h3>Agradecimentos</h3>
+<p>Gostaria de agradecer por este desafio proposto, com o objetivo de aprimorar mais o meu aprendizado e me fazer melhorar cada vez mais</p>
