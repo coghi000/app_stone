@@ -13,13 +13,13 @@
  <a href=https://docs.docker.com/desktop/install/mac-install/>Mac</a>
  <br>
 
-<h3Instalando VSCode</h3>
+<h3>Instalando VSCode</h3>
 <p>A IDE utilizada neste projeto é o "VSCode", por ser uma IDE mais interativa com a nossa aplicação e suas extensões. Mas você pode utilizar outra IDE de sua escolha.</p>
- <a href=https://learn.microsoft.com/pt-br/virtualization/windowscontainers/manage-docker/configure-docker-daemon> Windows</a>
+ <a href=https://code.visualstudio.com/download> Windows</a>
   <br>
-  <a href=https://docs.docker.com/desktop/install/linux-install/>Linux</a>
+  <a href=https://code.visualstudio.com/download/>Linux</a>
   <br>
-  <a href=https://docs.docker.com/desktop/install/mac-install/>Mac</a>
+  <a href=https://code.visualstudio.com/download/>Mac</a>
   <br>
 
 
