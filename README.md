@@ -47,3 +47,10 @@
 <br>
 
 <h3>Executando a Aplicação</h3>
+
+<p> 1° Abra o terminal dentro da sua IDE e digite o seguinte comando "pip install --user -r requirements.txt", este comando irá instalar todos os apcotes necessários para que a aplicação rode.
+ <br>
+<p> 2° No terminal novamente, digite o comando "uvicorn main:app --reload" para que se inicie a aplicação, logo em seguida ele irá subir uma caixa de dialogo perguntando se você deseja abrir no Browser.
+ 
+ <p> 3° Após ele abrir no terminal, adicione no final do link um "/docs" igual o link a seguir "http://127.0.0.1:8000/docs", ele vai abrir um swagger para que você possa interagir com a aplicação.
+ 
