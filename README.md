@@ -20,16 +20,26 @@
   <a href=https://code.visualstudio.com/download/>Linux</a>
   <br>
   <a href=https://code.visualstudio.com/download/>Mac</a>
-  <br>
   
-  <p>Após a instalação, vamos configurar o VSCode para que possamos rodar a nossa aplicação.
+  <br>
+  <br>
+  <p>Após a instalação, vamos configurar o VSCode para que possamos rodar a nossa aplicação.</p>
   <h3>Primeiro Passo</h3>
   
   ![docker](https://brianchristner.io/content/images/2019/03/vs-code-docker-2.png)
   ![dev_container](https://code.visualstudio.com/assets/docs/devcontainers/tutorial/dev-containers-extension.png)
   
-  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "     Extensões" ou se preferir "Crtl+Shift+X" para abrir, e digite na barra de pesquisa "Docker" e instale. Após a instalação da extensão "Docker", repita os passos para instalar o "Dev-Container".
+  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "     Extensões" ou se preferir "Crtl+Shift+X" para abrir, e digite na barra de pesquisa "Docker" e instale. Após a instalação da extensão "Docker", repita os passos para instalar o "Dev-Container".</p>
  
+ <h3>Segundo Passo</h3>
+ <p>Agora vamos configurar as extensões para que possamos rodar a aplicação, vou listar os passos deste procedimento abaixo para que você consiga configurar.</P
+<br>
+ <p>1° Pressione "CRTL+SHIT+P" para abrir uma caixa de configuração bem a cima, apos isso, você tem que digitar "Dev Container" Add Dev Container   Configuration Files".</p>
+ <br>
+ <p>2° Agora você digita "Python" e escolha a segunda opção "Python3 & Postgres" e pressione enter</p>
+ <br>
+ <p>3° Escolha a versão do python 3.7 ou superior, depois de ter escolhido, é só pressionar "Enter" e clicar em "Ok".</p>
  
+ <p> Depois de seguir todas as configurações a cima, ele vai criar o ambiente, e apartir dai  você vai estar dentro do container e pronto para iniciar a aplicação. Caso você tenha dificuldades ou duvidas sobre como configurar o ambiente a cima, é só clicar no link, que você vai ser direcionado ao videos de como configurar o "Dev Container".</p>
 
-
+<a href='https://www.youtube.com/watch?v=61M2takIKl8&list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31'>Dev Container Configuration</a>
