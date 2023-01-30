@@ -2,4 +2,4 @@
 
 Sejam muito bem vindos ao meu projeto de FastAPI com docker!
 
-Neste projeto iremos criar uma aplicação
+Neste projeto esta todos os requisitos solicitados por vocês, mas para poder executalo, é necessário que o ambiente seja preparado seguindo os passos abaixo.
