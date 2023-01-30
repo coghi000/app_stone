@@ -40,6 +40,6 @@
  <br>
  <p>3° Escolha a versão do python 3.7 ou superior, depois de ter escolhido, é só pressionar "Enter" e clicar em "Ok".</p>
  
- <p> Depois de seguir todas as configurações a cima, ele vai criar o ambiente, e apartir dai  você vai estar dentro do container e pronto para iniciar a aplicação. Caso você tenha dificuldades ou duvidas sobre como configurar o ambiente a cima, é só clicar no link, que você vai ser direcionado ao videos de como configurar o "Dev Container".</p>
+ <p> Depois de seguir todas as configurações a cima, ele vai criar o ambiente, e partir dai  você vai estar dentro do container e pronto para iniciar a aplicação. Caso você tenha dificuldades ou duvidas sobre como configurar o ambiente a cima, é só clicar no link, que você vai ser direcionado ao videos de como configurar o "Dev Container".</p>
 
 <a href='https://www.youtube.com/watch?v=61M2takIKl8&list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31'>Dev Container Configuration</a>
