@@ -25,9 +25,11 @@
   <p>Após a instalação, vamos configurar o VSCode para que possamos rodar a nossa aplicação.
   <h3>Primeiro Passo</h3>
   
-  ![VSCODE](https://brianchristner.io/content/images/2019/03/vs-code-docker-extension.png)
+  ![docker](https://brianchristner.io/content/images/2019/03/vs-code-docker-2.png)
+  ![dev_container](https://code.visualstudio.com/assets/docs/devcontainers/tutorial/dev-containers-extension.png)
   
-  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "     Extensões" ou se preferir crtl+Shift+X" para abrir, e digite na barra de pesquisa "Docker" e instale. 
-  
+  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "     Extensões" ou se preferir "Crtl+Shift+X" para abrir, e digite na barra de pesquisa "Docker" e instale. Após a instalação da extensão "Docker", repita os passos para instalar o "Dev-Container".
+ 
+ 
 
 
