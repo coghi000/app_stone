@@ -24,7 +24,10 @@
   
   <p>Após a instalação, vamos configurar o VSCode para que possamos rodar a nossa aplicação.
   <h3>Primeiro Passo</h3>
-  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "Extensões"       ou se preferir crtl+Shift+X" para abrir. 
+  
   ![VSCODE](https://brianchristner.io/content/images/2019/03/vs-code-docker-extension.png)
+  
+  <p> Após a instalação, abra o VSCode e selecione a pasta da sua aplicação, após de aberto, vá na barra a esquerda do VSCode e clique no icone "     Extensões" ou se preferir crtl+Shift+X" para abrir, e digite na barra de pesquisa "Docker" e instale. 
+  
 
 
