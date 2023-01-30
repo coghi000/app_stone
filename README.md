@@ -1,6 +1,6 @@
 ![FAST](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_ubDgmrhzWsr6VESmhjUQukf__nsOejPig&usqp=CAU)
 
-<h1>Sejam muito bem vindos ao meu projeto de FastAPI com docker!</h2>
+<h1>Sejam muito bem vindos ao meu projeto de FastAPI com docker e Postgres!</h2>
 
 <p>Neste projeto se encontra todos os requisitos solicitados, mas para poder executa-los, é necessário que o ambiente seja preparado seguindos os passos abaixo.</p>.
 
@@ -43,3 +43,7 @@
  <p> Depois de seguir todas as configurações a cima, ele vai criar o ambiente, e partir dai  você vai estar dentro do container e pronto para iniciar a aplicação. Caso você tenha dificuldades ou duvidas sobre como configurar o ambiente a cima, é só clicar no link, que você vai ser direcionado ao videos de como configurar o "Dev Container".</p>
 
 <a href='https://www.youtube.com/watch?v=61M2takIKl8&list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31'>Dev Container Configuration</a>
+
+<br>
+
+<h3>Executando a Aplicação</h3>
