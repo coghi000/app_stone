@@ -20,7 +20,6 @@ print(metadata.head())
 
 
 metadata.drop(columns=["special_notes", "Unnamed: 5"], inplace=True)
-metadata.head(3)
 
 
 # In[ ]:
